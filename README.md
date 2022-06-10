@@ -1,4 +1,4 @@
-# [Binary Search I](https://leetcode.com/study-plan/binary-search)
+# [Data Structure](https://leetcode.com/study-plan/data-structure)
 ## Day 1 Array
 * [217. Contains Duplicate](./Day%201/217.%20Contains%20Duplicate/Solution.java)
 * [53. Maximum Subarray](./Day%201/53.%20Maximum%20Subarray/Solution.java)
